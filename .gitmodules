@@ -1,0 +1,18 @@
+[submodule "csapp/csapp_lab"]
+	path = csapp/csapp_lab
+	url = https://github.com/raven-books-source-codes/csapp_lab.git
+[submodule "cs16c/su20-lab-starter"]
+	path = cs16c/su20-lab-starter
+	url = https://github.com/ravenxrz/su20-lab-starter.git
+[submodule "cs16c/su20-proj1-starter"]
+	path = cs16c/su20-proj1-starter
+	url = https://github.com/61c-teach/su20-proj1-starter.git
+[submodule "cs16c/su20-proj2-starter"]
+	path = cs16c/su20-proj2-starter
+	url = https://github.com/61c-teach/su20-proj2-starter.git
+[submodule "cs16c/su20-proj3-starter"]
+	path = cs16c/su20-proj3-starter
+	url = https://github.com/61c-teach/su20-proj3-starter.git
+[submodule "cs16c/su20-proj4-starter"]
+	path = cs16c/su20-proj4-starter
+	url = https://github.com/61c-teach/su20-proj4-starter.git
